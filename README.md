@@ -14,13 +14,13 @@ For this project we will be answering two questions to evaluate the Smile On pro
 Information about patients is gathered during different interactions (initial visit, checkups, etc.). The data in the `data` folder include records through November 28. There is also a data dictionary that contains some useful information about the different columns.
 
 # Team Contribution
-For this team project, my team decided to investigate the number of patients whose mouths were 'restored to function' as of their last dental visit with the program and made this our metric for determining program effectiveness. A patient who has been 'restored to function' is able to chew and has their front six teeth present, which we know equates to improved quality of life. Our visual highlighted the clinics that were able to restore the most patients to function.
+For this team project, my team decided to investigate the number of patients whose mouths were 'restored to function' as of their last dental visit with the program and made this one of our metrics for determining program effectiveness. A patient who has been 'restored to function' is able to chew and has their front six teeth present, which we know equates to improved quality of life. Our visual highlights the clinics that were able to restore the most patients to function.
 
 ![chart](/data/smile_on_visual.png)
 
-We also created the visual showing the prevalence of complete tooth loss in major cities in Tennessee and highlighted Chattanooga as a potential opportunity for Smile On to increase their presence. Lastly, we were involved in creating some of the visuals about the demographic make-up of their current patients. 
+We also created the visual showing the prevalence of complete tooth loss in major cities in Tennessee and highlighted Chattanooga as a potential opportunity for Smile On to increase their presence. Lastly, we were involved in creating some of the visuals about the demographic make-up of their current patients. The full presentation is available in the repository.
 
-This projects required us to continually refine our approach in handling null values and be critical about how we displayed the data and how we communicated our approach to the client. It also required us to be intentional and persistent in our communication with other groups since our visuals would become a part of a larger story.
+This projects required us to continually refine our approach in handling null values and be critical about how we displayed the data and how we communicated our approach to the client. It also required us to be intentional and persistent in our communication with other groups in the class since our visuals would become a part of a larger story.
 
 # Centers for Medicare and Medicaid Services  
 For comparing the Smile On program to Tennessee overall you will use data from the Centers for Medicare and Medicaid Services (CMS). Medicare is the program that provides financial assistance to elderly patients. There are different parts of Medicare:
