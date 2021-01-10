@@ -16,7 +16,7 @@ Information about patients is gathered during different interactions (initial vi
 # Team Contribution
 For this team project, my team decided to investigate the number of patients whose mouths were 'restored to function' as of their last dental visit with the program and made this one of our metrics for determining program effectiveness. A patient who has been 'restored to function' is able to chew and has their front six teeth present, which we know equates to improved quality of life. Our visual highlights the clinics that were able to restore the most patients to function.
 
-![chart](/data/smile_on_visual.png)
+![chart](smile_on_visual.png)
 
 We also created the visual showing the prevalence of complete tooth loss in major cities in Tennessee and highlighted Chattanooga as a potential opportunity for Smile On to increase their presence. Lastly, we were involved in creating some of the visuals about the demographic make-up of their current patients. The full presentation is available in the repository.
 
